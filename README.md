@@ -1,17 +1,17 @@
-Superstore Sales Data 
+**Superstore Sales Data **
 
-Introduction
+**Introduction**
 
 The Superstore Sales dataset contains information about customer orders, sales, profit, discount, quantity, shipping details, and product categories. 
 This project aims to understand the dataset, clean the data, and perform basic exploratory data analysis (EDA) using Python.
 
-Objective
+**Objective**
 
 The main objective of this project is to load the Superstore Sales dataset, inspect its structure,
 clean the data by converting date columns and formatting categorical columns, and perform basic analysis using 
 summary statistics and simple visualizations.
 
-Software and Libraries Used
+**Software and Libraries Used**
 
 Google Colab
 
@@ -23,13 +23,13 @@ Matplotlib
 
 Seaborn
 
-Dataset
+**Dataset**
 
 Dataset Name: Superstore Sales Dataset
 
 File Name: samplesuperstore.csv
 
-Project Workflow
+**Project Workflow**
 
 Import the required libraries.
 
@@ -59,12 +59,12 @@ Visualize total sales by category using a Bar Chart.
 
 Visualize the distribution of sales using a Histogram.
 
-Result
+**Result**
 
 The dataset was successfully loaded, cleaned, and explored. Date columns were converted into datetime format, categorical data was verified, 
 missing values were checked, category-wise sales were calculated, and the data was visualized using charts.
 
-Conclusion
+**Conclusion**
 
 The Superstore Sales dataset was successfully analyzed using Python. Basic data understanding, data cleaning, and exploratory analysis were completed. 
 The project provides a clear understanding of the dataset and prepares it for further analysis or machine learning tasks
