@@ -1,4 +1,4 @@
-**Superstore Sales Data **
+**Superstore Sales Data**
 
 **Introduction**
 
