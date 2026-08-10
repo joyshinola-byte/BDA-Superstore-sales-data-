@@ -68,3 +68,51 @@ missing values were checked, category-wise sales were calculated, and the data w
 
 The Superstore Sales dataset was successfully analyzed using Python. Basic data understanding, data cleaning, and exploratory analysis were completed. 
 The project provides a clear understanding of the dataset and prepares it for further analysis or machine learning tasks
+
+
+TASK -2
+
+# Retail Sales Visualization, Relationship Analysis & Business Insights
+
+## Objective
+
+Analyze retail sales, profit, discount, and numerical relationships using data visualization.
+
+## Tools Used
+
+Python, Pandas, Matplotlib, Seaborn
+
+##  Bar Plots
+
+Profit by Category
+Sales Distribution by Category
+Profit by Region
+Sales by Region
+
+##  Box Plots
+
+Profit Distribution
+Profit Variation Across Categories
+Outlier and variation analysis
+
+## Discount vs Profit
+
+Discount vs Profit
+Impact of Discount on Profit
+Discount profitability analysis
+
+##  Correlation Heatmap
+
+Correlation between numerical variables
+Positive and negative relationship analysis
+
+## Business Insights
+
+Identify profitable categories and regions
+Analyze profit distribution
+Understand discount impact
+Support data-driven business decisions
+
+## Conclusion
+
+The project uses data visualization to understand retail sales performance, profitability, discount impact, and relationships between numerical variables.
