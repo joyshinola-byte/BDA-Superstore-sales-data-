@@ -1,5 +1,7 @@
 **Superstore Sales Data**
 
+**TASK 1**
+
 **Introduction**
 
 The Superstore Sales dataset contains information about customer orders, sales, profit, discount, quantity, shipping details, and product categories. 
