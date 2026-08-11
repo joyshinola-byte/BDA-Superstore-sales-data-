@@ -2,6 +2,8 @@
 
 **TASK 1**
 
+**Data Understanding, Cleaning and Exploratory Data Analysis**
+
 **Introduction**
 
 The Superstore Sales dataset contains information about customer orders, sales, profit, discount, quantity, shipping details, and product categories. 
