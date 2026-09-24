@@ -1,6 +1,6 @@
-**Superstore Sales Data**
+****Superstore Sales Data****
 
-**TASK 1**
+****TASK 1****
 
 **Data Understanding, Cleaning and Exploratory Data Analysis**
 
